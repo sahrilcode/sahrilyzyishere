@@ -11,8 +11,8 @@ Alat ini dikembangkan sebagai upaya meningkatkan ketahanan website-website di In
 
 ---
 
-**Tentang haxorDos**  
-haxorDos adalah utilitas pengujian beban (stress-testing) dan evaluasi firewall yang dikembangkan oleh pelajar asal Jawa Timur, beridentitas samaran SAHRIL FINESHYT. Aplikasi ini dibangun di atas library [haxor-dos](https://www.npmjs.com/package/haxordos) yang menawarkan antarmuka lebih ringkas dan ringan dibandingkan solusi sejenis seperti k6.
+**Tentang Shennime Dos**  
+ShennimeDos adalah utilitas pengujian beban (stress-testing) dan evaluasi firewall yang dikembangkan oleh pelajar asal Jawa Timur, beridentitas samaran SAHRIL FINESHYT. Aplikasi ini dibangun di atas library [Shennime-dos](https://www.npmjs.com/package/Shenimedos) yang menawarkan antarmuka lebih ringkas dan ringan dibandingkan solusi sejenis seperti k6.
 
 ---
 
@@ -21,7 +21,7 @@ haxorDos adalah utilitas pengujian beban (stress-testing) dan evaluasi firewall 
 1. Clone repositori  
    ```bash
    git clone https://github.com/sahrilcode/sahrilyzyishere.git
-   cd haxorDos
+   cd sahrilyzyishere
    ```
 
 2. Instal dependensi  
