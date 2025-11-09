@@ -41,7 +41,7 @@ console.log(gradient.atlas(`
                        ⠉⠉⠉                        
 `));
 console.log(red + '\n╔══════════════════════════════════════╗');
-console.log(red + '║' + yellow + '           SHENNIME LITE DDOS          ' + red + '║');
+console.log(red + '║' + yellow + '     SHENNIME LITE DDOS BY SAHRIL FINESHYT    ' + red + '║');
 console.log(red + '╚══════════════════════════════════════╝\n' + reset);
 }
 
